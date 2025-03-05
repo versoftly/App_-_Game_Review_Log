@@ -1,7 +1,7 @@
 #prompt utilizado : 
 #Gemini Advanced trial version.
 <pre>
-    create a app & game review log using local storage html ,css and js please , 
+    create an app & game review log using local storage html ,css and js please , 
     add a section to describe the previous steps before I found the right strategies 
     to complete the goals of each app and game.
 </pre>
